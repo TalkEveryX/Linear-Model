@@ -9,13 +9,15 @@
 ### step 2 安装工具包
 `pip install numpy`
 
+`pip install pandas`
+
 `pip install sklearn`
 
 `pip install matplotlib`
 
-`pip install numpy`
+`pip install seaborn`
 
-`pip install numpy`
 ### step 3 开始项目
 在终端中输入以下命令然后回车
+
 `jupyter notebook "boston_housing.py"`
