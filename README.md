@@ -7,6 +7,7 @@
 ### step 1 安装anaconda环境
 首先我们需要在Windows系统上安装Anaconda环境，到[官网](https://www.anaconda.com/download)选择一个版本下载，建议选择Python3.6版本
 ### step 2 安装工具包
+在终端中输入以下命令安装所需工具包
 `pip install numpy`
 
 `pip install pandas`
